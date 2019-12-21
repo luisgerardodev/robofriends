@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/yaminolight/robofriends/static/css/main.0f49840f.chunk.css",
+    "main.js": "/yaminolight/robofriends/static/js/main.68d7eaae.chunk.js",
+    "main.js.map": "/yaminolight/robofriends/static/js/main.68d7eaae.chunk.js.map",
+    "runtime-main.js": "/yaminolight/robofriends/static/js/runtime-main.a70de859.js",
+    "runtime-main.js.map": "/yaminolight/robofriends/static/js/runtime-main.a70de859.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/yaminolight/robofriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.6d2b6324.chunk.js": "/yaminolight/robofriends/static/js/2.6d2b6324.chunk.js",
+    "static/js/2.6d2b6324.chunk.js.map": "/yaminolight/robofriends/static/js/2.6d2b6324.chunk.js.map",
+    "index.html": "/yaminolight/robofriends/index.html",
+    "precache-manifest.faa760a187cbae00cfaa0b7676d8f606.js": "/yaminolight/robofriends/precache-manifest.faa760a187cbae00cfaa0b7676d8f606.js",
+    "service-worker.js": "/yaminolight/robofriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/yaminolight/robofriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.0f49840f.chunk.css.map": "/yaminolight/robofriends/static/css/main.0f49840f.chunk.css.map",
+    "static/js/2.6d2b6324.chunk.js.LICENSE": "/yaminolight/robofriends/static/js/2.6d2b6324.chunk.js.LICENSE",
+    "static/media/App.css": "/yaminolight/robofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a70de859.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.6d2b6324.chunk.js",
+    "static/css/main.0f49840f.chunk.css",
+    "static/js/main.68d7eaae.chunk.js"
+  ]
+}
