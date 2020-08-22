@@ -1,5 +1,5 @@
 {
-  "homepage": "https://yaminolight.github.io/robofriends/",
+  "homepage": "https://luisgerardodev.github.io/robofriends/",
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.2.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0",
+    "react-scripts": "^3.4.3",
     "tachyons": "^4.11.1",
     "typescript": "^3.7.4"
   },
@@ -39,7 +39,6 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.12.0",
     "@typescript-eslint/parser": "^2.12.0",
-    "babel-eslint": "^10.0.3",
     "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-plugin-import": "^2.19.1",
